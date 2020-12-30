@@ -1,4 +1,5 @@
 
-# الكود المستخدم لشرح بعض المحاضرات على قناتي في اليوتيوب  
+#  https://www.youtube.com/TipsForGISChannel قناتي على اليوتيوب  
 
-https://www.youtube.com/TipsForGISChannel
+
+* lec1.ipynb, lec2.ipynb, and lec.ipynb for the playlist ` Python سلسلة لغة الـ `
